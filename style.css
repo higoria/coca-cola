@@ -172,13 +172,12 @@ header .navegation li a {
   header .logo {
     position: relative;
     max-width: 150px;
-    left: 15px;
+    left: 30px;
   }
   header .navegation ul {
     margin-top: 20px;
-
     position: relative;
-    right: 110px;
+    right: 95px;
   }
   header .navegation li {
     list-style: none;
