@@ -159,6 +159,7 @@ header .navegation li a {
     align-items: center;
     background: #121212;
     overflow: hidden;
+    height: 1300px;
   }
 
   header {
@@ -191,7 +192,7 @@ header .navegation li a {
     margin-left: 15px;
   }
   .content {
-    margin-top: 80px;
+    margin-top: -300px;
     position: relative;
     width: 100%;
     display: flex;
@@ -204,7 +205,7 @@ header .navegation li a {
     margin-right: 20px;
   }
   .content .text h2 {
-    margin-top: 00px;
+    margin-top: 0px;
     color: #fff;
     font-size: 3em;
     margin-bottom: 10px;
@@ -234,7 +235,7 @@ header .navegation li a {
     transform: translateY(-10px);
   }
   .circle {
-    margin-top: -0px;
+    margin-top: 00px;
     position: absolute;
     top: 00px;
     left: 0;
@@ -249,7 +250,7 @@ header .navegation li a {
     bottom: -90px;
   }
   .boxImg img {
-    width: 110px;
+    width: 0px;
   }
   .boxImg .img1 {
     position: relative;
